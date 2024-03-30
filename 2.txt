@@ -1,0 +1,8 @@
+this is file 2.txt
+<<<<<<< HEAD
+one more line from local
+one more line from Remote Repo
+
+=======
+one more line from Remote Repo
+>>>>>>> 312cbd947858938be11c1f23fa3566948e5c
